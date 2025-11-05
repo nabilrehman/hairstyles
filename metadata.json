@@ -1,0 +1,7 @@
+{
+  "name": "AI Hairstylist",
+  "description": "Use your camera to capture a photo and let AI suggest different hairstyles for you based on your text prompts. See how you'd look with short hair, a new color, or a completely different style!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
